@@ -2,16 +2,12 @@
   "name": "questions-app",
   "version": "1.0.0",
   "description": "Um aplicativo de criação de enquetes",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iagxferreira/questions-app.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Iago Ferreira",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/iagxferreira/questions-app/issues"
