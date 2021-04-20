@@ -1,4 +1,4 @@
-# questions-app-backend
+# questions-app
 
 O projeto de um aplicativo de criação de enquetes.
 
